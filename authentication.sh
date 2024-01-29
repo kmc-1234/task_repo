@@ -1,6 +1,6 @@
 #! /bin/bash
-duser="admin"
-dpasswd="tastyantra123"
+duser="Developer"
+dpasswd="Fireflink@123"
 echo "enter username"
 read a
 echo "enter password"

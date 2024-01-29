@@ -1,9 +1,9 @@
 #! /bin/bash 
 echo "enter age"
 read "age"
-if [ $age -lt 13 ];
+if [ $age -gt 60 ];
 then
-    echo "child"
+    echo "old"
 elif [ $age -gt 13 -a $age -lt 19 ];
 then
     echo "teenager"
